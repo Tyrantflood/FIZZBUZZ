@@ -2,6 +2,7 @@
 // usign "for loop" to loop through the given range
 
 for (let i = 1; i < 101; i++) {
+  //create an empty string we can append to 
   let result = "";
   // if number is divisible by 3, print "Fizz"
   if (i % 3 == 0) {
